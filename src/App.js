@@ -16,7 +16,7 @@ const emojiDictionary = {
 
 var emojisWeKnow = Object.keys(emojiDictionary);
 
-var emojiIKnow = Object.keys(emojiDictionary);
+
 
 export default function App() {
   const [meaning, setMeaning] = useState("");
